@@ -1,10 +1,11 @@
 ---
 title: Resources
-layout: single
+layout: page
 permalink: /resources/
-header:
-  image: "/assets/images/bulletcluster.jpg"
-  caption: "[Bullet Cluster. Credit: NASA/CXC/M.Weiss]"
+
+image:
+  feature:  "/assets/images/bulletcluster.jpg"
+  credit: "[Bullet Cluster. Credit: NASA/CXC/M.Weiss]"
 
 mathjax: true
 ---
