@@ -3,7 +3,7 @@ title: About
 layout: splash
 permalink: /about/
 header:
-  image: "/images/htch.jpg"
+  image: "/assets/images/htch.jpg"
   caption: "[Cosmos, Hitachi Park. Credit: Me]"
 
 mathjax: true

@@ -3,7 +3,7 @@ title: Resources
 layout: splash
 permalink: /resources/
 header:
-  image: "/images/bulletcluster.jpg"
+  image: "/assets/images/bulletcluster.jpg"
   caption: "[Bullet Cluster. Credit: NASA/CXC/M.Weiss]"
 
 mathjax: true
