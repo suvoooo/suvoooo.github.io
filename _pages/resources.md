@@ -1,6 +1,6 @@
 ---
 title: Resources
-layout: splash
+layout: page
 permalink: /resources/
 header:
   image: "/assets/images/bulletcluster.jpg"
