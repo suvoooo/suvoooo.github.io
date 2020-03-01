@@ -39,7 +39,7 @@ Below goes my list:
 
 ## _Astrophysics; Mostly Cosmic Rays_ :
 
-### _Cosmology Basic to Intermediate to Advanced _: 
+### _Cosmology Basic to Intermediate to Advanced_: 
 
   * [Lectures notes on Cosmology](https://arxiv.org/abs/1803.00070). 
   * [Lecture notes on Cosmology](http://www.sr.bham.ac.uk/~smcgee/ObsCosmo/Jaffe_cosmology.pdf). Contains a very intuitive explanations of rather difficult topics. 
