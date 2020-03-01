@@ -39,7 +39,17 @@ Below goes my list:
 
 ## _Astrophysics; Mostly Cosmic Rays_ :
 
-Better.
+### _Cosmology Basic to Intermediate to Advanced _: 
+
+  * [Lectures notes on Cosmology](https://arxiv.org/abs/1803.00070). 
+  * [Lecture notes on Cosmology](http://www.sr.bham.ac.uk/~smcgee/ObsCosmo/Jaffe_cosmology.pdf). Contains a very intuitive explanations of rather difficult topics. 
+  * [Lecture notes on General Relativity](http://www.blau.itp.unibe.ch/newlecturesGR.pdf). A very comprehensive guide.
+  * [Understanding CMB Power Spectrum](https://www.roe.ac.uk/ifa/postgrad/pedagogy/2006_tojeiro.pdf). 
+  * [CMB Power Spectrum for Pedestrians](https://astro.uni-bonn.de/~kbasu/Slides/annurev.samtleben.pdf).  
+
+### _Dark Matter Indirect Detection_: 
+
+  * 
 
 **********************************************************
 
