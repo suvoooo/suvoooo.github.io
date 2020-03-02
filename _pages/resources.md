@@ -55,4 +55,6 @@ Below goes my list:
 
 ## _Machine Learning/Deep Learning_ :
 
-Worst.
+### _Maths Behind Machine Learning_ :
+
+  * [Mathematics for Machine Learning](https://github.com/mml-book/mml-book.github.io/tree/master/book). Thanks to Professor [Marc Deisenroth](https://deisenroth.cc/) for making this book completely free! 	 
