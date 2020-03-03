@@ -28,7 +28,7 @@ mathjax: true
  For my PhD research, I was involved in searching for Dark Matter decay signal in the Cosmic-Ray $$e^+ + e^-$$ flux measured by [CALorimetric Electron Telescope (CALET)](https://www.nasa.gov/mission_pages/station/research/experiments/explorer/Investigation.html?#id=1027) on the ISS. I have extensively used [GALPROP](https://galprop.stanford.edu/), a numerical code for Cosmic-Ray propagation in our galaxy. For data analysis part, I have used Python and slowly I fell in love with various python libraries and, eventually with deep learning.   
 
 
-_For a more comprehensive CV (updated till late 2019), check [here](/images/Updated_Resume_ML.pdf)_.  
+_For a more comprehensive CV (updated till late 2019), check [here](/assets/images/Updated_Resume_ML.pdf)_.  
 
 **********************************************************
 
