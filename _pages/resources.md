@@ -39,17 +39,17 @@ Below goes my list:
 
 ## _Astrophysics; Mostly Cosmic Rays_ :
 
-### _Cosmology Basic to Intermediate to Advanced_: 
+### _Cosmology Basic to Intermediate to Advanced_:
 
-  * [Lectures notes on Cosmology](https://arxiv.org/abs/1803.00070). 
-  * [Lecture notes on Cosmology](http://www.sr.bham.ac.uk/~smcgee/ObsCosmo/Jaffe_cosmology.pdf). Contains a very intuitive explanations of rather difficult topics. 
+  * [Lectures notes on Cosmology](https://arxiv.org/abs/1803.00070).
+  * [Lecture notes on Cosmology](http://www.sr.bham.ac.uk/~smcgee/ObsCosmo/Jaffe_cosmology.pdf). Contains a very intuitive explanations of rather difficult topics.
   * [Lecture notes on General Relativity](http://www.blau.itp.unibe.ch/newlecturesGR.pdf). A very comprehensive guide.
-  * [Understanding CMB Power Spectrum](https://www.roe.ac.uk/ifa/postgrad/pedagogy/2006_tojeiro.pdf). 
+  * [Understanding CMB Power Spectrum](https://www.roe.ac.uk/ifa/postgrad/pedagogy/2006_tojeiro.pdf).
   * [CMB Power Spectrum for Pedestrians](https://astro.uni-bonn.de/~kbasu/Slides/annurev.samtleben.pdf).  
 
-### _Dark Matter Indirect Detection_: 
+### _Dark Matter Indirect Detection_:
 
-  * 
+  *
 
 **********************************************************
 
@@ -58,3 +58,7 @@ Below goes my list:
 ### _Maths Behind Machine Learning_ :
 
   * [Mathematics for Machine Learning](https://github.com/mml-book/mml-book.github.io/tree/master/book). Thanks to Professor [Marc Deisenroth](https://deisenroth.cc/) for making this book completely free! 	 
+
+### Lecture Notes:
+  * [Stanford Lectures Notes: Deep Learning](http://cs229.stanford.edu/notes/).
+  * [Neural Net and Deep Learning](http://neuralnetworksanddeeplearning.com/). 
