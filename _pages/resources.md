@@ -14,7 +14,7 @@ mathjax: true
 {% include toc %}
 
 
- Since I am a massive believer of free education, below I've compiled some of my favorite study materials, research papers, lectures etc. These could be of interest if you are into particle physics/astrophysics/machine learning. They are all free!
+ Since I am a massive believer of free education, below I've compiled a list of some of my favorite study materials, research papers, lectures etc. These could be of interest if you are into particle physics/astrophysics/machine learning. They are all free!
 
 A more generic and extremely useful list of such free materials for theoretical physicists is already prepared by famous physics professor _Gerard 't Hooft_.  You can check the site: [How to Become a Good Theoretical Physicist](http://www.goodtheorist.science/).
 
@@ -57,8 +57,10 @@ Below goes my list:
 
 ### _Maths Behind Machine Learning_ :
 
-  * [Mathematics for Machine Learning](https://github.com/mml-book/mml-book.github.io/tree/master/book). Thanks to Professor [Marc Deisenroth](https://deisenroth.cc/) for making this book completely free! 	 
+  * [Mathematics for Machine Learning](https://github.com/mml-book/mml-book.github.io/tree/master/book). Thanks to Professor [Marc Deisenroth](https://deisenroth.cc/) for making this book completely free!
+  * [Maths for ML: MIT Lecture Notes](https://ocw.mit.edu/courses/mathematics/18-657-mathematics-of-machine-learning-fall-2015/lecture-notes/).  	 
 
-### Lecture Notes:
+### Deep Learning Lecture Notes:
   * [Stanford Lectures Notes: Deep Learning](http://cs229.stanford.edu/notes/).
-  * [Neural Net and Deep Learning](http://neuralnetworksanddeeplearning.com/). 
+  * [Neural Net and Deep Learning](http://neuralnetworksanddeeplearning.com/).
+  * [Deep Unsupervised Learning Course:  Berkeley](https://sites.google.com/view/berkeley-cs294-158-sp19/home).
