@@ -64,3 +64,4 @@ Below goes my list:
   * [Stanford Lectures Notes: Deep Learning](http://cs229.stanford.edu/notes/).
   * [Neural Net and Deep Learning](http://neuralnetworksanddeeplearning.com/).
   * [Deep Unsupervised Learning Course:  Berkeley](https://sites.google.com/view/berkeley-cs294-158-sp19/home).
+  * [Deep Learning Book by I. Goodfellow, Y. Bengio](https://www.deeplearningbook.org/). 
