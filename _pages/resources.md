@@ -49,7 +49,9 @@ Below goes my list:
 
 ### _Dark Matter Indirect Detection_:
 
-  *
+  * [Review of Indirect Searches of Particle Dark Matter](https://arxiv.org/abs/1604.00014).
+  * [DM Candidates from Particle Physics and Detection Methods](https://www.annualreviews.org/doi/abs/10.1146/annurev-astro-082708-101659?src=recsys).
+  * [$\gamma$ rays and Dark Matter Review](https://www.pnas.org/content/112/40/12264). 
 
 **********************************************************
 
@@ -64,4 +66,4 @@ Below goes my list:
   * [Stanford Lectures Notes: Deep Learning](http://cs229.stanford.edu/notes/).
   * [Neural Net and Deep Learning](http://neuralnetworksanddeeplearning.com/).
   * [Deep Unsupervised Learning Course:  Berkeley](https://sites.google.com/view/berkeley-cs294-158-sp19/home).
-  * [Deep Learning Book by I. Goodfellow, Y. Bengio](https://www.deeplearningbook.org/). 
+  * [Deep Learning Book by I. Goodfellow, Y. Bengio](https://www.deeplearningbook.org/).
