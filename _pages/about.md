@@ -4,7 +4,7 @@ layout: splash
 permalink: /about/
 header:
   image: "/assets/images/htch.jpg"
-  caption: "[Cosmos, Hitachi Park. Credit: Me]"
+  caption: "[Cosmos, Hitachi Park. Credit: Suvo]"
 
 mathjax: true
 ---
@@ -17,9 +17,9 @@ mathjax: true
 
 #### _Post-Doc Research_: 
 
-<!--- Currently I'm looking for possible Dark Matter annihilation/decay signal in $$ \gamma $$-ray data, measured by [Cherenkov Telescope Array](https://www.cta-observatory.org/), using Deep Learning. -->
+Currently I'm looking for possible Dark Matter annihilation/decay signal in $$ \gamma $$-ray data, measured by [Cherenkov Telescope Array](https://www.cta-observatory.org/), using Deep Learning.
 
- After my PhD, I stayed in Riken, [Astrophysical Big Bang Laboratory](http://nagataki-lab.riken.jp/index_en.html) as a research assistant and worked on high energy $$\gamma, \nu$$ production from PeV $$\left( 10^{15} \text{eV} \right)$$ proton interaction with the molecular clouds near our galactic center. 
+After my PhD, I stayed in Riken, [Astrophysical Big Bang Laboratory](http://nagataki-lab.riken.jp/index_en.html) as a research assistant and worked on high energy $$\gamma, \nu$$ production from PeV $$\left( 10^{15} \text{eV} \right)$$ proton interaction with the molecular clouds near our galactic center. 
 
 **********************************************************
 
