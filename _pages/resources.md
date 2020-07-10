@@ -57,6 +57,8 @@ Below goes my list:
 
 ## _Machine Learning/Deep Learning_ :
 
+An excellent repository already has listed most of the available free lecture notes/videos related to Machine Learning and Deep Learning. It goes by the name [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/). Below goes a more specific list prepared by me:
+
 ### _Maths Behind Machine Learning_ :
 
   * [Mathematics for Machine Learning](https://github.com/mml-book/mml-book.github.io/tree/master/book). Thanks to Professor [Marc Deisenroth](https://deisenroth.cc/) for making this book completely free!

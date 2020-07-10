@@ -17,15 +17,15 @@ mathjax: true
 
 #### _Post-Doc Research_: 
 
-Currently I'm looking for possible Dark Matter annihilation/decay signal in $$ \gamma $$-ray data, measured by [Cherenkov Telescope Array](https://www.cta-observatory.org/), using Deep Learning.
+Currently I'm looking for possible Dark Matter annihilation/decay signal in $$ \gamma $$-ray data, measured by [Cherenkov Telescope Array](https://www.cta-observatory.org/), using Deep Learning. Now, I am supervised by Dr. Gabrijela Zaharijaš.
 
-After my PhD, I stayed in Riken, [Astrophysical Big Bang Laboratory](http://nagataki-lab.riken.jp/index_en.html) as a research assistant and worked on high energy $$\gamma, \nu$$ production from PeV $$\left( 10^{15} \text{eV} \right)$$ proton interaction with the molecular clouds near our galactic center. 
+After my PhD, I stayed in Riken, [Astrophysical Big Bang Laboratory](http://nagataki-lab.riken.jp/index_en.html) as a research assistant and worked on high energy $$\gamma, \nu$$ production from PeV $$\left( 10^{15} \text{eV} \right)$$ proton interaction with the molecular clouds near our galactic center. In Riken, I was supervised by Dr. Shigehiro Nagataki.
 
 **********************************************************
 
 #### _PhD Research_ :
 
- For my PhD research, I was involved in searching for Dark Matter decay signal in the Cosmic-Ray $$e^+ + e^-$$ flux measured by [CALorimetric Electron Telescope (CALET)](https://www.nasa.gov/mission_pages/station/research/experiments/explorer/Investigation.html?#id=1027) on the ISS. I have extensively used [GALPROP](https://galprop.stanford.edu/), a numerical code for Cosmic-Ray propagation in our galaxy. For data analysis part, I have used Python and slowly I fell in love with various python libraries and, eventually with deep learning.   
+ For my PhD research, I was involved in searching for Dark Matter decay signal in the Cosmic-Ray $$e^+ + e^-$$ flux measured by [CALorimetric Electron Telescope (CALET)](https://www.nasa.gov/mission_pages/station/research/experiments/explorer/Investigation.html?#id=1027) on the ISS. I was lucky enough to work under the PI of CALET, Dr. Shoji Torii. I have extensively used [GALPROP](https://galprop.stanford.edu/), a numerical code for Cosmic-Ray propagation in our galaxy. For data analysis part, I have used Python and slowly I fell in love with various python libraries and, eventually with deep learning.   
 
 
 _For a more comprehensive CV (updated till late 2019), check [here](/assets/images/Updated_Resume_ML.pdf)_.  
