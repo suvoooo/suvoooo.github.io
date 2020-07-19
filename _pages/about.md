@@ -27,6 +27,7 @@ After my PhD, I stayed in Riken, [Astrophysical Big Bang Laboratory](http://naga
 
  For my PhD research, I was involved in searching for Dark Matter decay signal in the Cosmic-Ray $$e^+ + e^-$$ flux measured by [CALorimetric Electron Telescope (CALET)](https://www.nasa.gov/mission_pages/station/research/experiments/explorer/Investigation.html?#id=1027) on the ISS. I was lucky enough to work under the PI of CALET, Dr. Shoji Torii. I have extensively used [GALPROP](https://galprop.stanford.edu/), a numerical code for Cosmic-Ray propagation in our galaxy. For data analysis part, I have used Python and slowly I fell in love with various python libraries and, eventually with deep learning.   
 
+Love for deep learning pushed me to take an AI Research Intern role and I mostly learned about using semantic segmentation to solve real life business problems, like- crack detection on road/walls, identify rotten bean [sprouts](https://www.youtube.com/watch?v=ck3lSTwBi78&feature=youtu.be) etc. 
 
 _For a more comprehensive CV (updated till late 2019), check [here](/assets/images/Updated_Resume_ML.pdf)_.  
 
@@ -36,5 +37,4 @@ _For a more comprehensive CV (updated till late 2019), check [here](/assets/imag
 
  When I was a little younger, while traveling and watching stars with my parents, I used to wonder how awesome it would be to study  (if I ever decide to continue studying!) about stuffs happening up there on the sky. Now, when I go on hikes or just enjoy solitude, most of the times I cannot comprehend how amazing life has turned out! Many failures, embarrasments were also part of this journey (there will be a lot more in future too). I grew to love and embrace them as much as my success stories. <br>
 
-Apart from watching stars and hiking, I also like to play football, guitar and take photographs. You can check some selected collections of photographs [here](https://flickr.com/photos/suvob).  
- 
+Apart from watching stars and hiking, I also like to play football, guitar and take photographs. You can check some selected collections of photographs [here](https://flickr.com/photos/suvob).   
