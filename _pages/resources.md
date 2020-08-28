@@ -16,7 +16,7 @@ mathjax: true
 
  Since I am a massive believer of free education, below I've compiled a list of some of my favorite study materials, research papers, lectures etc. These could be of interest if you are into particle physics/astrophysics/machine learning. They are all free!
 
-A more generic and extremely useful list of such free materials for theoretical physicists is already prepared by famous physics professor _Gerard 't Hooft_.  You can check the site: [How to Become a Good Theoretical Physicist](http://www.goodtheorist.science/).
+A more generic and extremely useful list of such free materials for theoretical physicists has already been prepared by famous physics professor _Gerard 't Hooft_.  You can check the site: [How to Become a Good Theoretical Physicist](http://www.goodtheorist.science/).
 
 Below goes my list:
 
@@ -37,7 +37,7 @@ Below goes my list:
 
 **********************************************************
 
-## _Astrophysics; Mostly Cosmic Rays_ :
+## _Astrophysics; Cosmology and Cosmic Rays_ :
 
 ### _Cosmology Basic to Intermediate to Advanced_:
 
@@ -52,6 +52,14 @@ Below goes my list:
   * [Review of Indirect Searches of Particle Dark Matter](https://arxiv.org/abs/1604.00014).
   * [DM Candidates from Particle Physics and Detection Methods](https://www.annualreviews.org/doi/abs/10.1146/annurev-astro-082708-101659?src=recsys).
   * [$\gamma$ rays and Dark Matter Review](https://www.pnas.org/content/112/40/12264). 
+
+### _Cosmic Rays_:
+
+  * [Origin of Galactic CRs: P.Blasi](https://link.springer.com/article/10.1007/s00159-013-0070-7).   
+  * [Cosmic-Ray Transport: E.Amato](https://www.sciencedirect.com/science/article/pii/S0273117717302995?via%3Dihub). 
+  * [Cosmic-Ray Models: M.Kacelriess](https://www.sciencedirect.com/science/article/pii/S0146641019300456?via%3Dihub). 
+
+The intro chpaters of my doctoral [thesis](https://drive.google.com/file/d/1QYwqtXXkiw7_dEA0rwJCTeLayGsoHWEM/view?usp=sharing) may also be helpful.  
 
 **********************************************************
 
