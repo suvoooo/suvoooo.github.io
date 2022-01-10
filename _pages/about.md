@@ -3,6 +3,7 @@ title: About
 layout: splash
 permalink: /about/
 header:
+  overlay_color="#000"
   image: "/assets/images/htch1.jpg"
   caption: "[Cosmos, Hitachi Park. Credit: Suvo]"
 
