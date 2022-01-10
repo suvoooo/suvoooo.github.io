@@ -6,7 +6,8 @@ main:
     url: /about/
 
   - title: "Blogs"
-    url: https://towardsdatascience.com/@saptashwa
+    #url: https://towardsdatascience.com/@saptashwa
+    url: /blogs/
 
   - title: "Resources"
     url: /resources/    
