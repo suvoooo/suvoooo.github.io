@@ -57,7 +57,8 @@ Below goes my list:
 
   * [Origin of Galactic CRs: P.Blasi](https://link.springer.com/article/10.1007/s00159-013-0070-7).   
   * [Cosmic-Ray Transport: E.Amato](https://www.sciencedirect.com/science/article/pii/S0273117717302995?via%3Dihub). 
-  * [Cosmic-Ray Models: M.Kacelriess](https://www.sciencedirect.com/science/article/pii/S0146641019300456?via%3Dihub). 
+  * [Cosmic-Ray Lecture Notes: M. Kachelriess](https://arxiv.org/abs/0801.4376). 
+  * [Cosmic-Ray Models: M.Kachelriess](https://www.sciencedirect.com/science/article/pii/S0146641019300456?via%3Dihub). 
 
 The intro chpaters of my doctoral [thesis](https://drive.google.com/file/d/1QYwqtXXkiw7_dEA0rwJCTeLayGsoHWEM/view?usp=sharing) may also be helpful.  
 
