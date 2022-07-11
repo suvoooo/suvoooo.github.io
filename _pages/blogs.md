@@ -46,6 +46,8 @@ mathjax: true
   * [Full Review of Expectation Maximization Algorithm](https://towardsdatascience.com/latent-variables-expectation-maximization-algorithm-fb15c4e0f32c). ELBO, KL Divergence and Gaussian Mixture Models. 
   
   * [Connecting Naive Bayes & Logistic Regression](https://towardsdatascience.com/connecting-naive-bayes-and-logistic-regression-binary-classification-ce69e527157f). 
+  
+  * [Bayesian Neural Network: Epistemic and Aleatoric Uncertainty](https://www.pixar.com/404). Coming Soon!!
 
 **********************************************************
 
@@ -59,7 +61,7 @@ mathjax: true
   
   * [Paper Review: General and Adaptive Robust Loss Function](https://towardsdatascience.com/the-most-awesome-loss-function-172ffc106c99). A loss function that can adapt during training?
   
-  * [Vision Transformer](https://www.pixar.com/404). Upcoming soon! 
+  * [Vision Transformer](https://medium.com/towards-data-science/understand-and-implement-vision-transformer-with-tensorflow-2-0-f5435769093). What is self-attention and implementing ViT from scratch using TensorFlow 2.0  
   
 
 ### _Applications_:
@@ -95,4 +97,5 @@ mathjax: true
   * [Deutsch-Jozsa Algorithm: Balanced or Constant Function?](https://medium.com/a-bit-of-qubit/deutsch-jozsa-algorithm-quantum-computing-basics-708df8c4caf7).
   * [Grover's Algorithm: Unstructured Search](https://medium.com/a-bit-of-qubit/grovers-algorithm-fast-quantum-search-algorithm-1d6e25ee45d6).
   * [Quantum Fourier Transform: Implement with Qiskit](https://medium.com/a-bit-of-qubit/quantum-fourier-transform-qubits-and-discrete-fourier-transform-5871c4cba9ff).
-  * [Quantum Phase Estimation: Application of QFT](https://www.pixar.com/404). Upcoming!
+  * [Quantum Phase Estimation: Application of QFT](https://medium.com/a-bit-of-qubit/quantum-phase-estimation-more-qubits-more-accuracy-a18ea6821073). Phase kickback & step by step explanation of QPE circuit! Implementation using Qiskit. 
+  * [Shor's Algorithm](https://medium.com/a-bit-of-qubit/shors-algorithm-how-does-it-work-aa6153646419). Factoring prime numbers using quantum computer & how period finding is related with factoring numbers?  
