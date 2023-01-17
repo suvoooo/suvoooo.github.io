@@ -29,6 +29,8 @@ mathjax: true
   * [Principal Component Analysis and SVM in a Pipeline with Python](https://towardsdatascience.com/visualizing-support-vector-machine-decision-boundary-69e7591dacea). Sklearn Pipeline, GridSerchCV and visualizing SVM decision boundary. 
   
   * [Interpreting Data through Visualization with Python Matplotlib](https://towardsdatascience.com/interpreting-data-through-visualization-with-python-matplotlib-ef795b411900). Next level interpretable data visualization. Libraries: Matplotlib & Seaborn
+  
+  * [Opening a Restaurant in Tokyo](https://towardsdatascience.com/exploring-the-tokyo-neighborhoods-data-science-in-real-life-8b6c2454ca16). How to get started with a data-science project. Collecting and cleaning data to visualization + machine learning applications. Libraries: Pandas, Sklearn, Seaborn etc.  
 
 ### _Understanding Fundamental Algorithms_:  
 
@@ -47,7 +49,10 @@ mathjax: true
   
   * [Connecting Naive Bayes & Logistic Regression](https://towardsdatascience.com/connecting-naive-bayes-and-logistic-regression-binary-classification-ce69e527157f). 
   
-  * [Bayesian Neural Network: Epistemic and Aleatoric Uncertainty](https://www.pixar.com/404). Coming Soon!!
+  * [Bayesian Neural Network: Epistemic and Aleatoric Uncertainty](https://towardsdatascience.com/bayesian-deep-learning-estimating-uncertainty-9907f5208cc0). What are aleatoric and epistemic uncertainties? How to include uncertainties in a neural-net model prediction?  
+  
+  * [Normalizing Flows: Getting Started](https://towardsdatascience.com/getting-started-with-normalizing-flows-linear-algebra-probability-f2b863ff427d) and [Transforming Probability Distributions](https://towardsdatascience.com/transforming-probability-distributions-using-normalizing-flows-bcc5ed6ac2c9). What is a normalizing flow? How do we transform between probability distributions using bijective transformations? 
+  
 
 **********************************************************
 
