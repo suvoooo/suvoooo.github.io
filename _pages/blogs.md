@@ -51,7 +51,9 @@ mathjax: true
   
   * [Bayesian Neural Network: Epistemic and Aleatoric Uncertainty](https://towardsdatascience.com/bayesian-deep-learning-estimating-uncertainty-9907f5208cc0). What are aleatoric and epistemic uncertainties? How to include uncertainties in a neural-net model prediction?  
   
-  * [Normalizing Flows: Getting Started](https://towardsdatascience.com/getting-started-with-normalizing-flows-linear-algebra-probability-f2b863ff427d) and [Transforming Probability Distributions](https://towardsdatascience.com/transforming-probability-distributions-using-normalizing-flows-bcc5ed6ac2c9). What is a normalizing flow? How do we transform between probability distributions using bijective transformations? 
+  * [Normalizing Flows: Getting Started](https://towardsdatascience.com/getting-started-with-normalizing-flows-linear-algebra-probability-f2b863ff427d) and [Transforming Probability Distributions](https://towardsdatascience.com/transforming-probability-distributions-using-normalizing-flows-bcc5ed6ac2c9). What is a normalizing flow? How do we transform between probability distributions using bijective transformations?
+
+  * [Masked Auto-regressive Flow: Implementing with TF-Probability](https://medium.com/towards-data-science/understand-implement-masked-autoregressive-flow-with-tensorflow-9c361cd1354c). Triangular matrices are so cool! 
   
 
 **********************************************************
@@ -97,6 +99,7 @@ mathjax: true
   * [Bell State & Entanglement with Qiskit](https://medium.com/a-bit-of-qubit/quantum-computing-bell-state-and-entanglement-with-qiskit-621489fb36bd).  	 
   * [Uniform Superposition in Quantum Computing](https://medium.com/a-bit-of-qubit/multiple-hadamard-gates-in-parallel-uniform-superposition-in-quantum-computing-58790a206904). 
   * [Love Story of Alice & Bob: Teleportation](https://medium.com/a-bit-of-qubit/quantum-teleportation-a-love-story-quantum-computing-685c407b4895). 
+  * [Density Matrix and Bloch Sphere](https://medium.com/a-bit-of-qubit/understanding-bloch-sphere-from-density-matrix-perspective-618bd5911d4f). How are they connected with Pauli Spinors?
 
 ### Algorithms & Implementations:
   * [Deutsch-Jozsa Algorithm: Balanced or Constant Function?](https://medium.com/a-bit-of-qubit/deutsch-jozsa-algorithm-quantum-computing-basics-708df8c4caf7).

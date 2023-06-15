@@ -27,8 +27,9 @@ Below goes my list:
 ### _Standard Model_:
 
   * [Introduction to Standard Model](https://arxiv.org/abs/hep-ph/0001283).
-  * [Getting Started with Noether's Theorem](http://users.physik.fu-berlin.de/~kleinert/b6/psfiles/Chapter-7-conslaw.pdf).
+  * [Getting Started with Noether's Theorem](https://www.ippp.dur.ac.uk/~mspannow/files/IFT_LectureNotes.pdf). First 3 chapters are really helpful.
   * [Feynman Diagrams for Beginners](https://arxiv.org/pdf/1602.04182.pdf). Also, Griffiths Particle Physics Book, Appendix D.
+  * [Complete Lecture Series of Particle Physics: Lenny Susskind](https://www.youtube.com/playlist?list=PL4E35E60B6EF36216). _My Favorite teacher!_
 
 ### _Dark Matter_:  
 
