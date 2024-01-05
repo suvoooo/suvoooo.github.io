@@ -61,7 +61,7 @@ Below goes my list:
   * [Cosmic-Ray Lecture Notes: M. Kachelriess](https://arxiv.org/abs/0801.4376). 
   * [Cosmic-Ray Models: M.Kachelriess](https://www.sciencedirect.com/science/article/pii/S0146641019300456?via%3Dihub). 
 
-The intro chpaters of my doctoral [thesis](https://drive.google.com/file/d/1QYwqtXXkiw7_dEA0rwJCTeLayGsoHWEM/view?usp=sharing) may also be helpful.  
+The intro chpaters of my doctoral may also be helpful. Link: [Google Drive]([thesis](https://drive.google.com/file/d/1QYwqtXXkiw7_dEA0rwJCTeLayGsoHWEM/view?usp=sharing))/[Waseda Repository](https://waseda.repo.nii.ac.jp/records/46666) 
 
 **********************************************************
 
@@ -69,13 +69,15 @@ The intro chpaters of my doctoral [thesis](https://drive.google.com/file/d/1QYwq
 
 An excellent repository already has listed most of the available free lecture notes/videos related to Machine Learning and Deep Learning. It goes by the name [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/). Below goes a more specific list prepared by me:
 
-### _Maths Behind Machine Learning_ :
+### _Maths & More ..._:
 
   * [Mathematics for Machine Learning](https://github.com/mml-book/mml-book.github.io/tree/master/book). Thanks to Professor [Marc Deisenroth](https://deisenroth.cc/) for making this book completely free!
-  * [Maths for ML: MIT Lecture Notes](https://ocw.mit.edu/courses/mathematics/18-657-mathematics-of-machine-learning-fall-2015/lecture-notes/).  	 
+  * [Maths for ML: MIT Lecture Notes](https://ocw.mit.edu/courses/mathematics/18-657-mathematics-of-machine-learning-fall-2015/lecture-notes/). 
+  * [Understanding Deep Learning](https://udlbook.github.io/udlbook/) by Dr. Simon Prince. Thanks to him for making the draft copy completely free!
 
 ### Deep Learning Lecture Notes:
   * [Stanford Lectures Notes: Deep Learning](http://cs229.stanford.edu/notes/).
   * [Neural Net and Deep Learning](http://neuralnetworksanddeeplearning.com/).
   * [Deep Unsupervised Learning Course:  Berkeley](https://sites.google.com/view/berkeley-cs294-158-sp19/home).
   * [Deep Learning Book by I. Goodfellow, Y. Bengio](https://www.deeplearningbook.org/).
+  * [How to Think About Networks (i.e. Graphs)?](http://networksciencebook.com/).
