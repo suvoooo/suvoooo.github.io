@@ -49,12 +49,6 @@ mathjax: true
   
   * [Connecting Naive Bayes & Logistic Regression](https://towardsdatascience.com/connecting-naive-bayes-and-logistic-regression-binary-classification-ce69e527157f). 
   
-  * [Bayesian Neural Network: Epistemic and Aleatoric Uncertainty](https://towardsdatascience.com/bayesian-deep-learning-estimating-uncertainty-9907f5208cc0). What are aleatoric and epistemic uncertainties? How to include uncertainties in a neural-net model prediction?  
-  
-  * [Normalizing Flows: Getting Started](https://towardsdatascience.com/getting-started-with-normalizing-flows-linear-algebra-probability-f2b863ff427d) and [Transforming Probability Distributions](https://towardsdatascience.com/transforming-probability-distributions-using-normalizing-flows-bcc5ed6ac2c9). What is a normalizing flow? How do we transform between probability distributions using bijective transformations?
-
-  * [Masked Auto-regressive Flow: Implementing with TF-Probability](https://medium.com/towards-data-science/understand-implement-masked-autoregressive-flow-with-tensorflow-9c361cd1354c). Triangular matrices are so cool! 
-  
 
 **********************************************************
 
@@ -62,11 +56,13 @@ mathjax: true
 
 ### _Basics & Hands On_:
 
-  * [Build Better and Faster Image Pipelines with `tf.data`](https://towardsdatascience.com/time-to-choose-tensorflow-data-over-imagedatagenerator-215e594f2435). Why `ImageDataGenerator` may die soon?
-  
+  * [Paper Review: Why KANs are So Cool?](https://medium.com/towards-data-science/kan-why-and-how-does-it-work-a-deep-dive-1adab4837fa3)
+    
   * [Class Imbalance & Focal Loss](https://towardsdatascience.com/a-loss-function-suitable-for-class-imbalanced-data-focal-loss-af1702d75d75). Application of Focal Loss using TensorFlow.  
   
   * [Paper Review: General and Adaptive Robust Loss Function](https://towardsdatascience.com/the-most-awesome-loss-function-172ffc106c99). A loss function that can adapt during training?
+  
+  * [Build Better and Faster Image Pipelines with `tf.data`](https://towardsdatascience.com/time-to-choose-tensorflow-data-over-imagedatagenerator-215e594f2435).
   
   * [Vision Transformer](https://medium.com/towards-data-science/understand-and-implement-vision-transformer-with-tensorflow-2-0-f5435769093). What is self-attention and implementing ViT from scratch using TensorFlow 2.0  
   
@@ -86,6 +82,15 @@ mathjax: true
   * [Facebook Just Launched the Coolest Augmentation Library: Augly](https://towardsdatascience.com/facebook-just-launched-the-coolest-augmentation-library-augly-3910c05db505). 
   
 
+### _Probabilisitc Approach_:
+
+  * [Bayesian Neural Network: Epistemic and Aleatoric Uncertainty](https://towardsdatascience.com/bayesian-deep-learning-estimating-uncertainty-9907f5208cc0). What are aleatoric and epistemic uncertainties? How to include uncertainties in a neural-net model prediction?  
+  
+  * [Normalizing Flows: Getting Started](https://towardsdatascience.com/getting-started-with-normalizing-flows-linear-algebra-probability-f2b863ff427d) and [Transforming Probability Distributions](https://towardsdatascience.com/transforming-probability-distributions-using-normalizing-flows-bcc5ed6ac2c9). What is a normalizing flow? How do we transform between probability distributions using bijective transformations?
+
+  * [Masked Auto-regressive Flow: Implementing with TF-Probability](https://medium.com/towards-data-science/understand-implement-masked-autoregressive-flow-with-tensorflow-9c361cd1354c). Triangular matrices are so cool! 
+  
+  * [Can PCA be Probabilistic?](https://medium.com/towards-data-science/probabilistic-view-of-principal-component-analysis-9c1bbb3f167) Yes!
 
 
 **********************************************************

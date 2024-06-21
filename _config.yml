@@ -110,7 +110,7 @@ author:
   name             : "Saptashwa Bhattacharyya"
   avatar           : "/assets/images/ICRC1edited2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD, High Energy Astrophysics"
-  location         : "Ajdovščina"
+  location         : "<a href='https://www.google.com/maps?q=Ajdovščina' target='_blank'>Ajdovščina</a>"
   email            :
   links:
     # - label: "Email"
