@@ -66,6 +66,10 @@ mathjax: true
   
   * [Vision Transformer](https://medium.com/towards-data-science/understand-and-implement-vision-transformer-with-tensorflow-2-0-f5435769093). What is self-attention and implementing ViT from scratch using TensorFlow 2.0  
   
+  * [AdEMAMix Optimizer](https://towardsdatascience.com/ademamix-a-deep-dive-into-a-new-optimizer-for-your-deep-neural-network-6168e2c1da35). Why mixture of two exponential moving average is better than one? 
+
+
+  
 
 ### _Applications_:
 

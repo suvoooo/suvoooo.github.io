@@ -127,13 +127,13 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/suvoooo"
+      url: "<a href='https://github.com/suvoooo' target='_blank'>GitHub</a>"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/saptashwa"
+      url: "<a href='https://linkedin.com/in/saptashwa' target='_blank'>LinkedIn</a>"
 
 # Site Footer
 footer:
@@ -146,7 +146,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/suvoooo"
+      url: "<a href='https://github.com/suvoooo' target='_blank'>GitHub</a>'"
     # - label: "GitLab"
     #   icon: "fab fa-fw fa-gitlab"
       # url:
@@ -155,7 +155,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://flickr.com/photos/suvob"
+      url: "<a href='https://flickr.com/photos/suvob' target='_blank'>Instagram</a>"
 
 
 # Reading Files
