@@ -146,7 +146,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "<a href='https://github.com/suvoooo' target='_blank'>GitHub</a>'"
+      url: "https://github.com/suvoooo"
     # - label: "GitLab"
     #   icon: "fab fa-fw fa-gitlab"
       # url:
@@ -155,7 +155,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "<a href='https://flickr.com/photos/suvob' target='_blank'>Instagram</a>"
+      url: "https://flickr.com/photos/suvob"
 
 
 # Reading Files
