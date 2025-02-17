@@ -21,33 +21,33 @@ mathjax: true
 
 ### _Basics_:
 
-  * [Ridge and Lasso Regression: L1 and L2 Regularization](https://towardsdatascience.com/ridge-and-lasso-regression-a-complete-guide-with-python-scikit-learn-e20e34bcbf0b). 
+  * [Ridge and Lasso Regression: L1 and L2 Regularization](https://medium.com/towards-data-science/ridge-and-lasso-regression-a-complete-guide-with-python-scikit-learn-e20e34bcbf0b). 
    Basics of regularization techniques in regression with examples. Library: Scikit-Learn. 
 
-  * [A Simple Example of Pipeline in Machine Learning with Scikit-learn](https://towardsdatascience.com/a-simple-example-of-pipeline-in-machine-learning-with-scikit-learn-e726ffbb6976). Grid Search Cross-Validation & Sklearn Pipeline
+  * [A Simple Example of Pipeline in Machine Learning with Scikit-learn](https://medium.com/towards-data-science/a-simple-example-of-pipeline-in-machine-learning-with-scikit-learn-e726ffbb6976). Grid Search Cross-Validation & Sklearn Pipeline
    
-  * [Principal Component Analysis and SVM in a Pipeline with Python](https://towardsdatascience.com/visualizing-support-vector-machine-decision-boundary-69e7591dacea). Sklearn Pipeline, GridSerchCV and visualizing SVM decision boundary. 
+  * [Principal Component Analysis and SVM in a Pipeline with Python](https://medium.com/towards-data-science/visualizing-support-vector-machine-decision-boundary-69e7591dacea). Sklearn Pipeline, GridSerchCV and visualizing SVM decision boundary. 
   
-  * [Interpreting Data through Visualization with Python Matplotlib](https://towardsdatascience.com/interpreting-data-through-visualization-with-python-matplotlib-ef795b411900). Next level interpretable data visualization. Libraries: Matplotlib & Seaborn
+  * [Interpreting Data through Visualization with Python Matplotlib](https://medium.com/towards-data-science/interpreting-data-through-visualization-with-python-matplotlib-ef795b411900). Next level interpretable data visualization. Libraries: Matplotlib & Seaborn
   
-  * [Opening a Restaurant in Tokyo](https://towardsdatascience.com/exploring-the-tokyo-neighborhoods-data-science-in-real-life-8b6c2454ca16). How to get started with a data-science project. Collecting and cleaning data to visualization + machine learning applications. Libraries: Pandas, Sklearn, Seaborn etc.  
+  * [Opening a Restaurant in Tokyo](https://medium.com/towards-data-science/exploring-the-tokyo-neighborhoods-data-science-in-real-life-8b6c2454ca16). How to get started with a data-science project. Collecting and cleaning data to visualization + machine learning applications. Libraries: Pandas, Sklearn, Seaborn etc.  
 
 ### _Understanding Fundamental Algorithms_:  
 
-  * [Support Vector Machines](https://towardsdatascience.com/understanding-support-vector-machine-part-1-lagrange-multipliers-5c24a52ffc5e). Lagrange Multipliers & Decision Boundary Condition.
+  * [Support Vector Machines](https://medium.com/towards-data-science/understanding-support-vector-machine-part-1-lagrange-multipliers-5c24a52ffc5e). Lagrange Multipliers & Decision Boundary Condition.
 
-  * [Support Vector Machines: Kernel and Mercer's Theorem](https://towardsdatascience.com/understanding-support-vector-machine-part-2-kernel-trick-mercers-theorem-e1e6848c6c4d).
+  * [Support Vector Machines: Kernel and Mercer's Theorem](https://medium.com/towards-data-science/understanding-support-vector-machine-part-2-kernel-trick-mercers-theorem-e1e6848c6c4d).
   
-  * [DBSCAN Algorithm: Complete Guide and Application with Python Scikit-Learn](https://towardsdatascience.com/dbscan-algorithm-complete-guide-and-application-with-python-scikit-learn-d690cbae4c5d). Clustering spatial database and example using Canada weather station data. 
+  * [DBSCAN Algorithm: Complete Guide and Application with Python Scikit-Learn](https://medium.com/towards-data-science/dbscan-algorithm-complete-guide-and-application-with-python-scikit-learn-d690cbae4c5d). Clustering spatial database and example using Canada weather station data. 
   
-  * [Understanding Decision Tree Classification with Scikit-Learn](https://towardsdatascience.com/understanding-decision-tree-classification-with-scikit-learn-2ddf272731bd). Gini Index, Pipeline and GridSearchCV. Understand which feature is more important and how it's chosen. 
+  * [Understanding Decision Tree Classification with Scikit-Learn](https://medium.com/towards-data-science/understanding-decision-tree-classification-with-scikit-learn-2ddf272731bd). Gini Index, Pipeline and GridSearchCV. Understand which feature is more important and how it's chosen. 
   
-  * [Logistic Regression and Logits](https://towardsdatascience.com/logit-of-logistic-regression-understanding-the-fundamentals-f384152a33d1). How to think of logistic regression starting from linear Regression. 
+  * [Logistic Regression and Logits](https://medium.com/towards-data-science/logit-of-logistic-regression-understanding-the-fundamentals-f384152a33d1). How to think of logistic regression starting from linear Regression. 
 
 ### _Probabilistic Approach_:
-  * [Full Review of Expectation Maximization Algorithm](https://towardsdatascience.com/latent-variables-expectation-maximization-algorithm-fb15c4e0f32c). ELBO, KL Divergence and Gaussian Mixture Models. 
+  * [Full Review of Expectation Maximization Algorithm](https://medium.com/towards-data-science/latent-variables-expectation-maximization-algorithm-fb15c4e0f32c). ELBO, KL Divergence and Gaussian Mixture Models. 
   
-  * [Connecting Naive Bayes & Logistic Regression](https://towardsdatascience.com/connecting-naive-bayes-and-logistic-regression-binary-classification-ce69e527157f). 
+  * [Connecting Naive Bayes & Logistic Regression](https://medium.com/towards-data-science/connecting-naive-bayes-and-logistic-regression-binary-classification-ce69e527157f). 
   
 
 **********************************************************
@@ -58,15 +58,15 @@ mathjax: true
 
   * [Paper Review: Why KANs are So Cool?](https://medium.com/towards-data-science/kan-why-and-how-does-it-work-a-deep-dive-1adab4837fa3)
     
-  * [Class Imbalance & Focal Loss](https://towardsdatascience.com/a-loss-function-suitable-for-class-imbalanced-data-focal-loss-af1702d75d75). Application of Focal Loss using TensorFlow.  
+  * [Class Imbalance & Focal Loss](https://medium.com/towards-data-science/a-loss-function-suitable-for-class-imbalanced-data-focal-loss-af1702d75d75). Application of Focal Loss using TensorFlow.  
   
-  * [Paper Review: General and Adaptive Robust Loss Function](https://towardsdatascience.com/the-most-awesome-loss-function-172ffc106c99). A loss function that can adapt during training?
+  * [Paper Review: General and Adaptive Robust Loss Function](https://medium.com/towards-data-science/the-most-awesome-loss-function-172ffc106c99). A loss function that can adapt during training?
   
-  * [Build Better and Faster Image Pipelines with `tf.data`](https://towardsdatascience.com/time-to-choose-tensorflow-data-over-imagedatagenerator-215e594f2435).
+  * [Build Better and Faster Image Pipelines with `tf.data`](https://medium.com/towards-data-science/time-to-choose-tensorflow-data-over-imagedatagenerator-215e594f2435).
   
   * [Vision Transformer](https://medium.com/towards-data-science/understand-and-implement-vision-transformer-with-tensorflow-2-0-f5435769093). What is self-attention and implementing ViT from scratch using TensorFlow 2.0  
   
-  * [AdEMAMix Optimizer](https://towardsdatascience.com/ademamix-a-deep-dive-into-a-new-optimizer-for-your-deep-neural-network-6168e2c1da35). Why mixture of two exponential moving average is better than one? 
+  * [AdEMAMix Optimizer](https://medium.com/towards-data-science/ademamix-a-deep-dive-into-a-new-optimizer-for-your-deep-neural-network-6168e2c1da35). Why mixture of two exponential moving average is better than one? 
 
 
   
@@ -77,18 +77,18 @@ mathjax: true
   
   * [Multi-Class Classification: Cassava Leaf Disease: Case Study](https://medium.datadriveninvestor.com/multi-class-classification-cassava-leaf-disease-case-study-57a13dceaeca). Deploy a pre-trained InceptionRenset-V2 for leaf disease classification. 
   
-  * [Chest X-ray & Pneumonia: Deep Learning with TensorFlow](https://towardsdatascience.com/chest-x-ray-pneumonia-deep-learning-with-tensorflow-a58a9e6ade70). Class-Imbalance, Data standardization, and AUC-ROC metric for evaluation.  
+  * [Chest X-ray & Pneumonia: Deep Learning with TensorFlow](https://medium.com/towards-data-science/chest-x-ray-pneumonia-deep-learning-with-tensorflow-a58a9e6ade70). Class-Imbalance, Data standardization, and AUC-ROC metric for evaluation.  
   
-  * [Understand and Implement ResNet-50 with TensorFlow 2.0](https://towardsdatascience.com/understand-and-implement-resnet-50-with-tensorflow-2-0-1190b9b52691). A very deep dive to understand why residual connection is so cool and build Resnet from scratch using TensorFlow. 
+  * [Understand and Implement ResNet-50 with TensorFlow 2.0](https://medium.com/towards-data-science/understand-and-implement-resnet-50-with-tensorflow-2-0-1190b9b52691). A very deep dive to understand why residual connection is so cool and build Resnet from scratch using TensorFlow. 
   
-  * [How Deep Neural Networks Look for Features in Images?](https://towardsdatascience.com/how-deep-neural-network-look-for-features-in-images-with-keras-and-google-colab-28209d57f771). Visualize what's happening in the hidden layers using TensorFlow, Keras. 
+  * [How Deep Neural Networks Look for Features in Images?](https://medium.com/towards-data-science/how-deep-neural-network-look-for-features-in-images-with-keras-and-google-colab-28209d57f771). Visualize what's happening in the hidden layers using TensorFlow, Keras. 
   
-  * [Facebook Just Launched the Coolest Augmentation Library: Augly](https://towardsdatascience.com/facebook-just-launched-the-coolest-augmentation-library-augly-3910c05db505). 
+  * [Facebook Just Launched the Coolest Augmentation Library: Augly](https://medium.com/towards-data-science/facebook-just-launched-the-coolest-augmentation-library-augly-3910c05db505). 
   
 
 ### _Probabilisitc Approach_:
 
-  * [Bayesian Neural Network: Epistemic and Aleatoric Uncertainty](https://towardsdatascience.com/bayesian-deep-learning-estimating-uncertainty-9907f5208cc0). What are aleatoric and epistemic uncertainties? How to include uncertainties in a neural-net model prediction?  
+  * [Bayesian Neural Network: Epistemic and Aleatoric Uncertainty](https://medium.com/towards-data-science/bayesian-deep-learning-estimating-uncertainty-9907f5208cc0). What are aleatoric and epistemic uncertainties? How to include uncertainties in a neural-net model prediction?  
   
   * [Normalizing Flows: Getting Started](https://towardsdatascience.com/getting-started-with-normalizing-flows-linear-algebra-probability-f2b863ff427d) and [Transforming Probability Distributions](https://towardsdatascience.com/transforming-probability-distributions-using-normalizing-flows-bcc5ed6ac2c9). What is a normalizing flow? How do we transform between probability distributions using bijective transformations?
 
@@ -102,13 +102,15 @@ mathjax: true
 ## _Quantum Computing_ :
 
 
-### _Basics_ :
+### _Basics + Popular_ :
 
   * [Simple Gates and Implementations Using Qiskit](https://medium.com/a-bit-of-qubit/quantum-computing-understanding-simple-quantum-gates-using-qiskit-6bb96f52793b).   
   * [Bell State & Entanglement with Qiskit](https://medium.com/a-bit-of-qubit/quantum-computing-bell-state-and-entanglement-with-qiskit-621489fb36bd).  	 
   * [Uniform Superposition in Quantum Computing](https://medium.com/a-bit-of-qubit/multiple-hadamard-gates-in-parallel-uniform-superposition-in-quantum-computing-58790a206904). 
   * [Love Story of Alice & Bob: Teleportation](https://medium.com/a-bit-of-qubit/quantum-teleportation-a-love-story-quantum-computing-685c407b4895). 
   * [Density Matrix and Bloch Sphere](https://medium.com/a-bit-of-qubit/understanding-bloch-sphere-from-density-matrix-perspective-618bd5911d4f). How are they connected with Pauli Spinors?
+  * [Why Willow from Google Could be Special?](https://medium.com/towards-data-science/googles-willow-quantum-computing-chip-a-game-changer-b9463ca996c3). 
+
 
 ### Algorithms & Implementations:
   * [Deutsch-Jozsa Algorithm: Balanced or Constant Function?](https://medium.com/a-bit-of-qubit/deutsch-jozsa-algorithm-quantum-computing-basics-708df8c4caf7).

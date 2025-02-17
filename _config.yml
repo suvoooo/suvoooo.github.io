@@ -135,6 +135,10 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/saptashwa"
 
+    - label: "StackOverflow"
+      icon: "fab fa-fw fa-stack"
+      url: "https://stackoverflow.com/users/3724647/suvo"
+
 # Site Footer
 footer:
   links:
