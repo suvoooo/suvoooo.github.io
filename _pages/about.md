@@ -17,7 +17,7 @@ mathjax: true
 
 #### _Post-Doc Research_: 
 
-Currently I'm looking for possible Dark Matter annihilation/decay signal in $$ \gamma $$-ray data, measured by [Cherenkov Telescope Array](https://www.cta-observatory.org/), using Deep Learning. Now, I am mostly working with [Dr. Gabrijela Zaharijaš](https://www2.ung.si/~gzaharijas/Gabi.html).
+Currently I'm investigating the possibilty of searching for Dark Matter annihilation/decay signal using Deep Learning, in upcoming $$ \gamma $$-ray data, that will be measured by [Cherenkov Telescope Array Observatory](https://www.ctao.org/). Now, I am mostly working with [Dr. Gabrijela Zaharijaš](https://www2.ung.si/~gzaharijas/Gabi.html).
 
 After my PhD, I worked with [Dr. Shigehiro Nagataki](https://www.riken.jp/en/research/labs/chief/astro_big_bang/) and Dr. Haoning He on studying high energy $$\gamma, \nu$$ production from PeV $$\left( 10^{15} \text{eV} \right)$$ proton interaction with the molecular clouds near our galactic center.
 
