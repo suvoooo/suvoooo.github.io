@@ -3,7 +3,7 @@ title: About
 layout: splash
 permalink: /about/
 header:
-  image: "/assets/images/htch1.jpg"
+  image: "/assets/images/htch1.webp"
   caption: "[Cosmos, Hitachi Park. Credit: Suvo]"
 
 mathjax: true
@@ -17,7 +17,7 @@ mathjax: true
 
 #### _Post-Doc Research_: 
 
-Currently I'm investigating the possibilty of searching for Dark Matter annihilation/decay signal using Deep Learning, in upcoming $$ \gamma $$-ray data, that will be measured by [Cherenkov Telescope Array Observatory](https://www.ctao.org/). Now, I am mostly working with [Dr. Gabrijela Zaharijaš](https://www2.ung.si/~gzaharijas/Gabi.html).
+Currently I'm investigating the possibility of searching for Dark Matter annihilation/decay signal using Deep Learning, in upcoming $$ \gamma $$-ray data, that will be measured by [Cherenkov Telescope Array Observatory](https://www.ctao.org/). Now, I am mostly working with [Dr. Gabrijela Zaharijaš](https://www2.ung.si/~gzaharijas/Gabi.html).
 
 After my PhD, I worked with [Dr. Shigehiro Nagataki](https://www.riken.jp/en/research/labs/chief/astro_big_bang/) and Dr. Haoning He on studying high energy $$\gamma, \nu$$ production from PeV $$\left( 10^{15} \text{eV} \right)$$ proton interaction with the molecular clouds near our galactic center.
 
@@ -35,6 +35,6 @@ _For a more comprehensive CV (updated till late 2019), check [here](/assets/imag
 
 ### _About Me_ :
 
-When I was a little younger, while traveling and watching stars with my parents, I used to wonder how awesome it would be to study  (if I ever decide to continue studying!) about stuffs happening up there on the sky. Now, when I go on hikes or just enjoy solitude, most of the times I cannot comprehend how amazing life has turned out! Many failures, embarrasments were also part of this journey (there will be a lot more in future too). I grew to love and embrace them as much as my success stories. <br>
+When I was a little younger, while traveling and watching stars with my parents, I used to wonder how awesome it would be to study  (if I ever decide to continue studying!) about stuffs happening up there on the sky. Now, when I go on hikes or just enjoy solitude, most of the times I cannot comprehend how amazing life has turned out! Many failures, embarrassments were also part of this journey (there will be a lot more in future too). I grew to love and embrace them as much as my success stories. <br>
 
 Apart from watching stars and hiking, I also like to play football, guitar and take photographs. You can check some selected collections of photographs [here](https://flickr.com/photos/suvob).   

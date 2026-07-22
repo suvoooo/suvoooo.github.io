@@ -5,7 +5,7 @@ permalink: /resources/
 
 
 header:
-  image:  "/assets/images/bulletcluster.jpg"
+  image:  "/assets/images/bulletcluster.webp"
   caption: "[Bullet Cluster. Credit: NASA/CXC/M.Weiss]"
 
 mathjax: true
@@ -52,7 +52,7 @@ Below goes my list:
 
   * [Review of Indirect Searches of Particle Dark Matter](https://arxiv.org/abs/1604.00014).
   * [DM Candidates from Particle Physics and Detection Methods](https://www.annualreviews.org/doi/abs/10.1146/annurev-astro-082708-101659?src=recsys).
-  * [$\gamma$ rays and Dark Matter Review](https://www.pnas.org/content/112/40/12264). 
+  * [$$\gamma$$ rays and Dark Matter Review](https://www.pnas.org/content/112/40/12264). 
 
 ### _Cosmic Rays_:
 
@@ -61,7 +61,7 @@ Below goes my list:
   * [Cosmic-Ray Lecture Notes: M. Kachelriess](https://arxiv.org/abs/0801.4376). 
   * [Cosmic-Ray Models: M.Kachelriess](https://www.sciencedirect.com/science/article/pii/S0146641019300456?via%3Dihub). 
 
-The intro chpaters of my doctoral may also be helpful. Link: [Google Drive](https://drive.google.com/file/d/1QYwqtXXkiw7_dEA0rwJCTeLayGsoHWEM/view?usp=sharing)/[Waseda Repository](https://waseda.repo.nii.ac.jp/records/46666) 
+The intro chapters of my doctoral thesis may also be helpful. Link: [Google Drive](https://drive.google.com/file/d/1QYwqtXXkiw7_dEA0rwJCTeLayGsoHWEM/view?usp=sharing)/[Waseda Repository](https://waseda.repo.nii.ac.jp/records/46666) 
 
 **********************************************************
 
@@ -72,11 +72,11 @@ An excellent repository already has listed most of the available free lecture no
 ### _Maths & More ..._:
 
   * [Mathematics for Machine Learning](https://github.com/mml-book/mml-book.github.io/tree/master/book). Thanks to Professor [Marc Deisenroth](https://deisenroth.cc/) for making this book completely free!
-  * [Maths for ML: MIT Lecture Notes](https://ocw.mit.edu/courses/mathematics/18-657-mathematics-of-machine-learning-fall-2015/lecture-notes/). 
+  * [Maths for ML: MIT Lecture Notes](https://ocw.mit.edu/courses/18-657-mathematics-of-machine-learning-fall-2015/). 
   * [Understanding Deep Learning](https://udlbook.github.io/udlbook/) by Dr. Simon Prince. Thanks to him for making the draft copy completely free!
 
 ### Deep Learning Lecture Notes:
-  * [Stanford Lectures Notes: Deep Learning](http://cs229.stanford.edu/notes/).
+  * [Stanford Lectures Notes: Deep Learning](https://cs229.stanford.edu/main_notes.pdf).
   * [Neural Net and Deep Learning](http://neuralnetworksanddeeplearning.com/).
   * [Deep Unsupervised Learning Course:  Berkeley](https://sites.google.com/view/berkeley-cs294-158-sp19/home).
   * [Deep Learning Book by I. Goodfellow, Y. Bengio](https://www.deeplearningbook.org/).
