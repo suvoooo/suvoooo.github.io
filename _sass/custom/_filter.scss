@@ -1,0 +1,76 @@
+/* ==========================================================================
+   Filter box for the /blogs/ list.
+   Imported from assets/css/main.scss *after* the theme partials, so it can
+   use Minimal Mistakes variables (and survive a theme update untouched).
+   ========================================================================== */
+
+.blog-filter {
+  margin: 0 0 1.5em;
+
+  &__input {
+    width: 100%;
+    max-width: 26em;
+    padding: 0.55em 0.75em;
+    font-family: inherit;
+    font-size: $type-size-5;
+    color: $text-color;
+    background-color: $background-color;
+    border: 1px solid $border-color;
+    border-radius: $border-radius;
+    transition: $global-transition;
+    -webkit-appearance: none;
+    appearance: none;
+
+    &:focus {
+      border-color: $primary-color;
+      outline: none;
+    }
+
+    &::placeholder {
+      color: $muted-text-color;
+    }
+  }
+
+  &__status {
+    margin: 0.5em 0 0;
+    font-size: $type-size-6;
+    color: $muted-text-color;
+  }
+}
+
+/* Tag chips appended to each article. They are real <button>s so they are
+   keyboard-reachable; their text is also what makes tags searchable, since
+   the filter matches each item's visible text. */
+.blog-tags {
+  display: inline;
+  white-space: normal;
+}
+
+.blog-tag {
+  display: inline-block;
+  margin: 0 0.3em 0.3em 0;
+  padding: 0.05em 0.6em;
+  font-family: inherit;
+  font-size: 0.65em;
+  line-height: 1.7;
+  color: $muted-text-color;
+  background-color: transparent;
+  border: 1px solid $border-color;
+  border-radius: 1em;
+  cursor: pointer;
+  transition: $global-transition;
+
+  &:hover,
+  &:focus {
+    color: $primary-color;
+    border-color: $primary-color;
+    outline: none;
+  }
+}
+
+/* The filter toggles [hidden] on list items, headings and TOC entries.
+   Theme rules set `display` on some of these, so make sure [hidden] wins. */
+.page__content [hidden],
+.toc__menu [hidden] {
+  display: none !important;
+}

@@ -1,0 +1,26 @@
+{%- comment -%}
+Renders the article list from _data/blogs.yml as Markdown, so kramdown
+still handles headings, links and inline code exactly as before.
+Edit _data/blogs.yml to add or change an entry -- never edit this file for content.
+
+The filter input starts [hidden]; assets/js/blog-filter.js reveals it, so the
+page degrades to a plain full list when JavaScript is unavailable.
+{%- endcomment -%}
+
+<div class="blog-filter">
+  <input type="search" id="blog-filter-input" class="blog-filter__input" placeholder="Filter articles…" aria-label="Filter articles by title or description" autocomplete="off" hidden>
+  <p id="blog-filter-status" class="blog-filter__status" role="status" aria-live="polite" hidden></p>
+</div>
+
+{% for group in site.data.blogs %}
+**********************************************************
+
+## {{ group.heading }}
+
+{% for section in group.sections %}### {{ section.heading }}
+
+{% for item in section.items %}  * [{{ item.title }}]({{ item.url }}){{ item.blurb }}{% if item.tags %} <span class="blog-tags">{% for tag in item.tags %}<button type="button" class="blog-tag">{{ tag }}</button>{% endfor %}</span>{% endif %}
+
+{% endfor %}{% endfor %}{% endfor %}
+
+<script src="{{ '/assets/js/blog-filter.js' | relative_url }}"></script>
